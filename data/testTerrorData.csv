@@ -1,0 +1,1125 @@
+iyear,imonth,country_txt,region_txt,attacktype1_txt,weaptype1_txt,nkill,nwound
+2001,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,8,Russia,Eastern Europe,Facility/Infrastructure Attack,Unknown,0,0
+2001,8,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Firearms,1,0
+2001,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,8,Algeria,Middle East & North Africa,Unknown,Unknown,2,0
+2001,8,Kosovo,Eastern Europe,Armed Assault,Firearms,1,0
+2001,8,Algeria,Middle East & North Africa,Armed Assault,Firearms,2,3
+2001,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,8,Somalia,Sub-Saharan Africa,Assassination,Firearms,0,0
+2001,8,Colombia,South America,Unknown,Unknown,5,0
+2001,8,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,34
+2001,8,Chile,South America,Bombing/Explosion,Explosives,0,0
+2001,8,India,South Asia,Bombing/Explosion,Explosives,0,0
+2001,8,India,South Asia,Armed Assault,Firearms,0,1
+2001,8,Russia,Eastern Europe,Facility/Infrastructure Attack,Unknown,0,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,0
+2001,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,8,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,8,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,8,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,8,Colombia,South America,Hostage Taking (Kidnapping),Unknown,0,0
+2001,8,India,South Asia,Bombing/Explosion,Explosives,8,13
+2001,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,2,13
+2001,8,Philippines,Southeast Asia,Assassination,Firearms,1,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,0
+2001,8,United Kingdom,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2001,8,Macedonia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2001,8,Algeria,Middle East & North Africa,Armed Assault,Firearms,1,1
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,2
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,8,India,South Asia,Assassination,Firearms,2,0
+2001,8,Namibia,Sub-Saharan Africa,Facility/Infrastructure Attack,Firearms,0,1
+2001,8,Germany,Western Europe,Armed Assault,Firearms,1,0
+2001,8,India,South Asia,Armed Assault,Firearms,1,0
+2001,8,Algeria,Middle East & North Africa,Hostage Taking (Kidnapping),Melee,5,0
+2001,8,Sri Lanka,South Asia,Bombing/Explosion,Explosives,3,7
+2001,8,Azerbaijan,Central Asia,Armed Assault,Firearms,0,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,1
+2001,8,Colombia,South America,Assassination,Firearms,1,0
+2001,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,3
+2001,8,Indonesia,Southeast Asia,Armed Assault,Firearms,0,5
+2001,8,Colombia,South America,Hostage Taking (Kidnapping),Firearms,7,0
+2001,8,Colombia,South America,Facility/Infrastructure Attack,Firearms,1,0
+2001,8,Tanzania,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2001,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2001,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,8,India,South Asia,Armed Assault,Firearms,3,1
+2001,8,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,8,India,South Asia,Armed Assault,Firearms,1,0
+2001,8,Colombia,South America,Facility/Infrastructure Attack,Incendiary,0,0
+2001,8,Spain,Western Europe,Bombing/Explosion,Incendiary,0,1
+2001,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,1,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2001,8,India,South Asia,Hostage Taking (Kidnapping),Firearms,4,0
+2001,8,India,South Asia,Armed Assault,Firearms,1,0
+2001,8,West Bank and Gaza Strip,Middle East & North Africa,Assassination,Explosives,1,1
+2001,8,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,9,Spain,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Spain,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,0,0
+2001,9,Spain,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,0,1
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,1,0
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,0,1
+2001,9,Angola,Sub-Saharan Africa,Armed Assault,Firearms,32,52
+2001,9,Macedonia,Eastern Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Kosovo,Eastern Europe,Assassination,Firearms,1,0
+2001,9,Kosovo,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2001,9,United Kingdom,Western Europe,Unarmed Assault,Melee,0,2
+2001,9,Uganda,Sub-Saharan Africa,Bombing/Explosion,Explosives,6,2
+2001,9,Mexico,North America,Bombing/Explosion,Explosives,0,0
+2001,9,Colombia,South America,Assassination,Firearms,1,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,1,10
+2001,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,4,14
+2001,9,Philippines,Southeast Asia,Armed Assault,Firearms,0,4
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Melee,7,2
+2001,9,Colombia,South America,Hostage Taking (Kidnapping),Firearms,0,0
+2001,9,Spain,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,9,India,South Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2001,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,1,0
+2001,9,Democratic Republic of the Congo,Sub-Saharan Africa,Unknown,Unknown,0,0
+2001,9,Colombia,South America,Unarmed Assault,Chemical,4,6
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2001,9,Philippines,Southeast Asia,Bombing/Explosion,Explosives,3,13
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2001,9,Burundi,Sub-Saharan Africa,Armed Assault,Firearms,4,0
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,9,0
+2001,9,Bangladesh,South Asia,Assassination,Firearms,1,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,2,6
+2001,9,Algeria,Middle East & North Africa,Unknown,Unknown,1,0
+2001,9,Angola,Sub-Saharan Africa,Armed Assault,Incendiary,24,6
+2001,9,Burundi,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,3
+2001,9,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,4
+2001,9,Colombia,South America,Assassination,Firearms,1,0
+2001,9,Israel,Middle East & North Africa,Armed Assault,Firearms,1,1
+2001,9,India,South Asia,Bombing/Explosion,Explosives,4,17
+2001,9,Jordan,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,9,Sri Lanka,South Asia,Armed Assault,Firearms,4,3
+2001,9,India,South Asia,Bombing/Explosion,Explosives,1,20
+2001,9,India,South Asia,Bombing/Explosion,Explosives,6,0
+2001,9,France,Western Europe,Bombing/Explosion,Incendiary,0,0
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,10,4
+2001,9,United States,North America,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Tajikistan,Central Asia,Assassination,Firearms,1,0
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,3,20
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,2,3
+2001,9,Burundi,Sub-Saharan Africa,Unknown,Unknown,2,4
+2001,9,India,South Asia,Bombing/Explosion,Explosives,6,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,1,1
+2001,9,India,South Asia,Bombing/Explosion,Explosives,5,4
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,5,30
+2001,9,Israel,Middle East & North Africa,Armed Assault,Firearms,2,3
+2001,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,1
+2001,9,Burundi,Sub-Saharan Africa,Armed Assault,Firearms,10,0
+2001,9,Italy,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,9,Pakistan,South Asia,Armed Assault,Firearms,1,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,1,6
+2001,9,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,3,16
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,0,1
+2001,9,Burundi,Sub-Saharan Africa,Armed Assault,Firearms,1,
+2001,9,Democratic Republic of the Congo,Sub-Saharan Africa,Armed Assault,Firearms,4,0
+2001,9,Israel,Middle East & North Africa,Armed Assault,Firearms,2,1
+2001,9,United States,North America,Hijacking,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1384,8190
+2001,9,United States,North America,Hijacking,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1383,8191
+2001,9,United States,North America,Hijacking,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",190,106
+2001,9,United States,North America,Hijacking,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",44,6
+2001,9,Armenia,Central Asia,Assassination,Explosives,1,0
+2001,9,France,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,12,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,1
+2001,12,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,1,28
+2001,9,Philippines,Southeast Asia,Armed Assault,Firearms,3,6
+2001,9,Italy,Western Europe,Armed Assault,Incendiary,0,
+2001,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,5
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Melee,7,0
+2001,9,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,9,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,1,4
+2001,9,Namibia,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,0,5
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,4,0
+2001,9,Macedonia,Eastern Europe,Armed Assault,Firearms,0,0
+2001,9,Colombia,South America,Armed Assault,Firearms,11,2
+2001,9,Bangladesh,South Asia,Armed Assault,Firearms,0,10
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,2,0
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,9,0
+2001,9,Colombia,South America,Facility/Infrastructure Attack,Sabotage Equipment,0,0
+2001,9,Sri Lanka,South Asia,Bombing/Explosion,Explosives,31,65
+2001,9,Taiwan,East Asia,Armed Assault,Firearms,0,0
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,9,0
+2001,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,1,0
+2001,9,India,South Asia,Armed Assault,Firearms,12,9
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,1,3
+2001,9,Pakistan,South Asia,Bombing/Explosion,Explosives,2,40
+2001,9,Angola,Sub-Saharan Africa,Armed Assault,Firearms,5,6
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,7,0
+2001,9,Colombia,South America,Assassination,Firearms,1,0
+2001,9,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,9,Nepal,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Colombia,South America,Assassination,Firearms,1,1
+2001,9,Israel,Middle East & North Africa,Bombing/Explosion,Incendiary,0,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,1
+2001,9,Indonesia,Southeast Asia,Armed Assault,Firearms,2,0
+2001,9,Angola,Sub-Saharan Africa,Armed Assault,Firearms,5,6
+2001,9,United States,North America,Bombing/Explosion,Explosives,0,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,1
+2001,9,Burundi,Sub-Saharan Africa,Armed Assault,Firearms,2,2
+2001,9,United Kingdom,Western Europe,Armed Assault,Firearms,0,1
+2001,9,Colombia,South America,Hostage Taking (Kidnapping),Unknown,0,0
+2001,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,2,8
+2001,9,India,South Asia,Bombing/Explosion,Explosives,12,6
+2001,9,Australia,Australasia & Oceania,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Indonesia,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2001,9,Spain,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,0
+2001,9,Sri Lanka,South Asia,Bombing/Explosion,Explosives,6,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,1,0
+2001,9,Colombia,South America,Hostage Taking (Kidnapping),Firearms,1,0
+2001,9,Angola,Sub-Saharan Africa,Facility/Infrastructure Attack,Firearms,3,0
+2001,9,India,South Asia,Bombing/Explosion,Explosives,0,100
+2001,9,Fiji,Australasia & Oceania,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Afghanistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2001,9,Philippines,Southeast Asia,Armed Assault,Firearms,2,0
+2001,9,Bangladesh,South Asia,Bombing/Explosion,Explosives,4,2
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,22,7
+2001,9,Colombia,South America,Hostage Taking (Kidnapping),Unknown,0,0
+2001,9,Switzerland,Western Europe,Armed Assault,Firearms,14,18
+2001,9,Chile,South America,Bombing/Explosion,Explosives,0,0
+2001,9,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,3,0
+2001,9,Russia,Eastern Europe,Hostage Taking (Kidnapping),Firearms,4,1
+2001,9,Azerbaijan,Central Asia,Armed Assault,Firearms,1,1
+2001,9,United Kingdom,Western Europe,Assassination,Firearms,1,0
+2001,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,2,1
+2001,9,India,South Asia,Assassination,Firearms,2,0
+2001,9,Russia,Eastern Europe,Armed Assault,Firearms,2,0
+2001,9,France,Western Europe,Bombing/Explosion,Incendiary,0,0
+2001,10,India,South Asia,Bombing/Explosion,Explosives,31,60
+2001,10,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2001,10,Spain,Western Europe,Bombing/Explosion,Explosives,0,1
+2001,10,Japan,East Asia,Bombing/Explosion,Explosives,0,0
+2001,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,4,14
+2001,10,United States,North America,Unarmed Assault,Biological,1,5
+2001,10,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,1,8
+2001,10,Colombia,South America,Assassination,Firearms,0,1
+2001,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,2
+2001,10,Brazil,South America,Hostage Taking (Kidnapping),Unknown,0,0
+2001,10,Pakistan,South Asia,Armed Assault,Firearms,5,14
+2001,10,Israel,Middle East & North Africa,Armed Assault,Firearms,3,10
+2001,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,3
+2001,10,Saudi Arabia,Middle East & North Africa,Bombing/Explosion,Explosives,2,4
+2001,10,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,2,0
+2001,10,Colombia,South America,Hostage Taking (Kidnapping),Firearms,2,0
+2001,10,Colombia,South America,Hostage Taking (Kidnapping),Unknown,6,0
+2001,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2001,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2001,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2001,10,Colombia,South America,Assassination,Firearms,1,0
+2001,10,Angola,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2001,10,United States,North America,Unarmed Assault,Biological,2,1
+2001,10,France,Western Europe,Bombing/Explosion,Incendiary,0,0
+2001,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,8
+2001,10,Colombia,South America,Unknown,Unknown,24,0
+2001,10,Colombia,South America,Assassination,Unknown,5,0
+2001,10,Kuwait,Middle East & North Africa,Armed Assault,Firearms,1,1
+2001,10,Colombia,South America,Unknown,Unknown,24,0
+2001,10,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2001,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,2
+2001,10,Kenya,Sub-Saharan Africa,Unarmed Assault,Biological,0,5
+2001,11,Colombia,South America,Assassination,Firearms,2,0
+2001,11,Colombia,South America,Hostage Taking (Kidnapping),Firearms,0,0
+2001,11,Colombia,South America,Armed Assault,Firearms,12,0
+2001,11,Colombia,South America,Hostage Taking (Kidnapping),Unknown,1,0
+2001,10,Kenya,Sub-Saharan Africa,Unarmed Assault,Biological,0,
+2001,10,Kenya,Sub-Saharan Africa,Unarmed Assault,Biological,0,
+2001,10,Spain,Western Europe,Bombing/Explosion,Explosives,0,0
+2001,10,Indonesia,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2001,10,Spain,Western Europe,Bombing/Explosion,Explosives,0,14
+2001,10,United States,North America,Unarmed Assault,Biological,0,6
+2002,10,France,Western Europe,Bombing/Explosion,Explosives,0,0
+2002,10,Colombia,South America,Assassination,Firearms,4,0
+2002,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,1,18
+2002,10,Algeria,Middle East & North Africa,Armed Assault,Melee,7,0
+2002,10,Uganda,Sub-Saharan Africa,Armed Assault,Firearms,0,4
+2002,10,Philippines,Southeast Asia,Assassination,Firearms,1,0
+2002,10,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Firearms,,
+2002,10,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,16,50
+2002,10,Colombia,South America,Bombing/Explosion,Explosives,7,24
+2002,10,Nepal,South Asia,Bombing/Explosion,Explosives,0,9
+2002,10,India,South Asia,Bombing/Explosion,Explosives,0,7
+2002,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,7
+2002,10,Russia,Eastern Europe,Hostage Taking (Barricade Incident),Firearms,170,
+2002,10,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2002,10,Indonesia,Southeast Asia,Bombing/Explosion,Explosives,0,2
+2002,10,Colombia,South America,Bombing/Explosion,Explosives,1,
+2002,10,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2002,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,1
+2002,10,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,4,0
+2002,10,India,South Asia,Armed Assault,Firearms,22,12
+2002,10,India,South Asia,Bombing/Explosion,Explosives,0,0
+2002,10,Jordan,Middle East & North Africa,Armed Assault,Firearms,1,0
+2002,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,4,2
+2002,10,Algeria,Middle East & North Africa,Unknown,Unknown,8,0
+2002,10,South Africa,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2002,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2002,10,South Africa,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2002,10,South Africa,Sub-Saharan Africa,Bombing/Explosion,Explosives,1,1
+2002,10,South Africa,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2002,10,South Africa,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2002,11,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,3
+2002,11,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,2
+2002,11,India,South Asia,Bombing/Explosion,Explosives,0,1
+2002,11,India,South Asia,Armed Assault,Firearms,4,0
+2002,11,India,South Asia,Bombing/Explosion,Explosives,0,0
+2002,11,Nigeria,Sub-Saharan Africa,Armed Assault,Melee,3,0
+2002,11,Burundi,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2002,11,Russia,Eastern Europe,Bombing/Explosion,Explosives,9,0
+2002,11,India,South Asia,Armed Assault,Firearms,2,
+2002,11,Nepal,South Asia,Facility/Infrastructure Attack,Unknown,0,0
+2002,11,Nepal,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2002,11,Nepal,South Asia,Bombing/Explosion,Explosives,0,0
+2002,11,Nepal,South Asia,Bombing/Explosion,Explosives,0,0
+2002,11,Yemen,Middle East & North Africa,Facility/Infrastructure Attack,Firearms,0,2
+2002,11,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2002,11,Belgium,Western Europe,Bombing/Explosion,Explosives,0,0
+2002,11,Russia,Eastern Europe,Bombing/Explosion,Explosives,3,0
+2002,11,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,1
+2002,11,Russia,Eastern Europe,Armed Assault,Explosives,17,
+2002,11,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,3,40
+2002,11,Nepal,South Asia,Bombing/Explosion,Incendiary,2,14
+2002,4,Colombia,South America,Hostage Taking (Kidnapping),Firearms,1,0
+2003,5,Russia,Eastern Europe,Bombing/Explosion,Explosives,1,2
+2003,5,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2003,5,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,6
+2003,5,India,South Asia,Armed Assault,Firearms,1,0
+2003,5,Colombia,South America,Bombing/Explosion,Explosives,3,0
+2003,5,Colombia,South America,Unknown,Unknown,1,1
+2003,5,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2003,5,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2003,5,Uganda,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,1,0
+2003,5,Pakistan,South Asia,Bombing/Explosion,Explosives,0,6
+2003,5,Philippines,Southeast Asia,Bombing/Explosion,Explosives,11,43
+2003,5,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2003,5,France,Western Europe,Bombing/Explosion,Explosives,0,0
+2003,5,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2003,5,India,South Asia,Armed Assault,Firearms,0,7
+2003,5,India,South Asia,Armed Assault,Firearms,2,3
+2003,5,India,South Asia,Armed Assault,Firearms,1,1
+2003,5,Russia,Eastern Europe,Bombing/Explosion,Explosives,59,197
+2003,5,Saudi Arabia,Middle East & North Africa,Bombing/Explosion,Explosives,12,
+2003,5,Saudi Arabia,Middle East & North Africa,Bombing/Explosion,Explosives,11,
+2003,5,Saudi Arabia,Middle East & North Africa,Bombing/Explosion,Explosives,11,
+2003,5,Saudi Arabia,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2003,5,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,10
+2003,5,Sri Lanka,South Asia,Bombing/Explosion,Explosives,0,5
+2003,5,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2003,5,India,South Asia,Armed Assault,Firearms,1,0
+2003,5,Russia,Eastern Europe,Armed Assault,Firearms,0,0
+2003,5,India,South Asia,Armed Assault,Explosives,1,4
+2003,5,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2003,5,Philippines,Southeast Asia,Armed Assault,Firearms,0,0
+2003,5,Russia,Eastern Europe,Assassination,Explosives,19,78
+2003,5,Italy,Western Europe,Bombing/Explosion,Explosives,0,0
+2003,5,Pakistan,South Asia,Bombing/Explosion,Explosives,0,7
+2003,5,Myanmar,Southeast Asia,Bombing/Explosion,Explosives,1,47
+2003,5,Russia,Eastern Europe,Unknown,Unknown,3,3
+2003,5,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,19,20
+2003,5,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,6,20
+2003,5,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,6,20
+2003,5,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,6,20
+2003,5,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,8,20
+2003,5,India,South Asia,Armed Assault,Firearms,2,0
+2003,5,Algeria,Middle East & North Africa,Armed Assault,Firearms,3,4
+2003,5,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2003,5,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,3,0
+2003,5,Macedonia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2003,5,Algeria,Middle East & North Africa,Assassination,Firearms,0,0
+2003,5,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,8,20
+2003,5,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2003,5,India,South Asia,Bombing/Explosion,Explosives,0,0
+2003,5,India,South Asia,Bombing/Explosion,Explosives,0,14
+2003,5,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2003,5,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,4,30
+2003,5,India,South Asia,Armed Assault,Firearms,1,0
+2003,5,India,South Asia,Armed Assault,Firearms,1,0
+2003,5,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,1,3
+2003,5,Colombia,South America,Hostage Taking (Kidnapping),Unknown,0,0
+2003,5,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2004,6,India,South Asia,Armed Assault,Firearms,1,
+2004,6,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2004,6,Thailand,Southeast Asia,Armed Assault,Firearms,1,
+2004,6,Thailand,Southeast Asia,Armed Assault,Firearms,1,
+2004,6,Iraq,Middle East & North Africa,Armed Assault,Firearms,1,
+2004,6,Nepal,South Asia,Armed Assault,Firearms,2,2
+2004,6,India,South Asia,Armed Assault,Firearms,1,
+2004,6,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,3
+2004,6,Afghanistan,South Asia,Bombing/Explosion,Explosives,4,
+2004,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,
+2004,6,Pakistan,South Asia,Armed Assault,Firearms,3,
+2004,6,Afghanistan,South Asia,Bombing/Explosion,Explosives,4,
+2004,6,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,1
+2004,6,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2004,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,35,145
+2004,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,4
+2004,6,Pakistan,South Asia,Assassination,Firearms,1,0
+2004,6,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2004,6,Saudi Arabia,Middle East & North Africa,Hostage Taking (Kidnapping),Melee,1,0
+2004,6,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,8,20
+2005,7,Guinea-Bissau,Sub-Saharan Africa,Armed Assault,Firearms,1,4
+2005,7,Guinea-Bissau,Sub-Saharan Africa,Armed Assault,Firearms,1,4
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,14
+2005,7,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,1
+2005,7,Iraq,Middle East & North Africa,Unknown,Unknown,1,0
+2005,7,Nepal,South Asia,Bombing/Explosion,Explosives,0,0
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,4,8
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,8,3
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,7,9
+2005,7,Guinea-Bissau,Sub-Saharan Africa,Armed Assault,Firearms,0,3
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,7,0
+2005,7,Colombia,South America,Bombing/Explosion,Explosives,9,1
+2005,7,Algeria,Middle East & North Africa,Armed Assault,Firearms,5,8
+2005,7,Pakistan,South Asia,Armed Assault,Firearms,4,15
+2005,7,Iraq,Middle East & North Africa,Assassination,Firearms,3,0
+2005,7,Russia,Eastern Europe,Bombing/Explosion,Explosives,15,24
+2005,7,Iraq,Middle East & North Africa,Armed Assault,Firearms,13,6
+2005,7,India,South Asia,Armed Assault,Firearms,6,0
+2005,7,India,South Asia,Bombing/Explosion,Explosives,8,16
+2005,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,8,25
+2005,7,Afghanistan,South Asia,Armed Assault,Firearms,15,
+2005,7,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2005,7,Iraq,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,2,0
+2005,7,Afghanistan,South Asia,Hostage Taking (Kidnapping),Unknown,6,0
+2006,8,Sri Lanka,South Asia,Assassination,Firearms,1,0
+2006,8,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2006,8,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2006,8,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2006,8,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2006,8,Turkey,Middle East & North Africa,Armed Assault,Firearms,0,1
+2006,8,Brazil,South America,Bombing/Explosion,Firearms,0,
+2006,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,12,38
+2006,8,Algeria,Middle East & North Africa,Armed Assault,Firearms,0,1
+2006,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,26,80
+2006,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,1,3
+2006,8,Thailand,Southeast Asia,Bombing/Explosion,Explosives,1,23
+2006,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,26,80
+2006,9,India,South Asia,Assassination,Firearms,5,0
+2006,9,Iraq,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,1,0
+2006,9,Turkey,Middle East & North Africa,Armed Assault,Firearms,7,2
+2006,9,Iraq,Middle East & North Africa,Armed Assault,Firearms,13,0
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,0
+2006,9,Sri Lanka,South Asia,Armed Assault,Firearms,2,0
+2006,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,1,3
+2006,9,Afghanistan,South Asia,Armed Assault,Firearms,3,2
+2006,9,Algeria,Middle East & North Africa,Unknown,Unknown,2,0
+2006,9,Algeria,Middle East & North Africa,Armed Assault,Firearms,1,0
+2006,9,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2006,9,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,4,6
+2006,9,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,2,14
+2006,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,6
+2006,9,Jordan,Middle East & North Africa,Armed Assault,Firearms,1,6
+2006,9,Sri Lanka,South Asia,Bombing/Explosion,Explosives,0,0
+2006,9,Iraq,Middle East & North Africa,Armed Assault,Firearms,3,5
+2006,9,Lebanon,Middle East & North Africa,Bombing/Explosion,Explosives,4,1
+2005,9,Sri Lanka,South Asia,Armed Assault,Firearms,1,0
+2006,9,Iraq,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,,
+2006,9,Indonesia,Southeast Asia,Bombing/Explosion,Explosives,1,0
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,9,39
+2006,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,2
+2006,9,Afghanistan,South Asia,Armed Assault,Firearms,2,0
+2006,9,Iraq,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,,
+2006,9,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,16
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,11,18
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,9,30
+2006,9,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2006,9,Sri Lanka,South Asia,Hostage Taking (Kidnapping),Firearms,2,0
+2006,9,Pakistan,South Asia,Bombing/Explosion,Explosives,2,13
+2006,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,
+2006,9,Sri Lanka,South Asia,Bombing/Explosion,Explosives,2,4
+2006,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,17,29
+2006,9,India,South Asia,Bombing/Explosion,Explosives,24,
+2006,9,Sri Lanka,South Asia,Bombing/Explosion,Explosives,0,6
+2006,9,Sri Lanka,South Asia,Hostage Taking (Kidnapping),Firearms,1,7
+2006,9,Algeria,Middle East & North Africa,Armed Assault,Explosives,0,3
+2006,9,Pakistan,South Asia,Armed Assault,Firearms,1,0
+2007,4,Afghanistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2007,4,Afghanistan,South Asia,Armed Assault,Firearms,0,0
+2007,4,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2007,4,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2007,4,Thailand,Southeast Asia,Armed Assault,Firearms,3,7
+2007,4,Colombia,South America,Armed Assault,Firearms,13,0
+2007,4,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2007,4,Afghanistan,South Asia,Armed Assault,Firearms,1,0
+2007,4,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,16,33
+2007,4,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,11
+2007,4,Israel,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2007,4,Azerbaijan,Central Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2007,4,Pakistan,South Asia,Armed Assault,Firearms,1,3
+2007,4,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,1
+2007,4,Sudan,Sub-Saharan Africa,Armed Assault,Firearms,3,0
+2007,4,Kenya,Sub-Saharan Africa,Assassination,Firearms,1,1
+2007,4,Turkey,Middle East & North Africa,Hijacking,Explosives,0,0
+2007,4,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,5,0
+2007,4,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,30,160
+2007,4,Bangladesh,South Asia,Assassination,Firearms,1,0
+2007,4,Afghanistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2007,4,Morocco,Middle East & North Africa,Bombing/Explosion,Explosives,3,21
+2007,4,Armenia,Central Asia,Bombing/Explosion,Explosives,0,0
+2007,4,India,South Asia,Bombing/Explosion,Explosives,1,11
+2007,4,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2007,4,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2007,4,Pakistan,South Asia,Bombing/Explosion,Explosives,0,3
+2007,4,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Firearms,0,0
+2007,4,Sudan,Sub-Saharan Africa,Armed Assault,Firearms,40,25
+2008,6,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2008,6,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2008,6,Colombia,South America,Bombing/Explosion,Explosives,3,0
+2008,6,India,South Asia,Hostage Taking (Kidnapping),Firearms,3,0
+2008,6,Afghanistan,South Asia,Armed Assault,Firearms,2,1
+2008,6,Afghanistan,South Asia,Armed Assault,Firearms,6,3
+2008,6,Pakistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2008,6,Pakistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2008,6,Pakistan,South Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2008,6,India,South Asia,Bombing/Explosion,Explosives,0,8
+2008,6,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,2,5
+2008,6,Iraq,Middle East & North Africa,Armed Assault,Firearms,1,0
+2008,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2008,6,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2008,6,Czech Republic,Eastern Europe,Unarmed Assault,Chemical,0,20
+2008,6,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,0,0
+2008,6,Afghanistan,South Asia,Hostage Taking (Kidnapping),Melee,2,0
+2008,6,Lebanon,Middle East & North Africa,Bombing/Explosion,Explosives,2,26
+2008,6,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2008,6,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,1,1
+2008,6,Somalia,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,0,8
+2008,6,Nigeria,Sub-Saharan Africa,Armed Assault,Melee,4,2
+2008,6,Afghanistan,South Asia,Assassination,Firearms,1,0
+2008,6,India,South Asia,Bombing/Explosion,Explosives,6,35
+2008,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,1
+2008,6,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2008,6,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,0
+2008,6,Philippines,Southeast Asia,Bombing/Explosion,Explosives,2,15
+2008,6,Nepal,South Asia,Armed Assault,Firearms,1,0
+2008,6,Georgia,Central Asia,Bombing/Explosion,Explosives,0,6
+2008,6,Ethiopia,Sub-Saharan Africa,Unknown,Unknown,4,7
+2008,6,India,South Asia,Bombing/Explosion,Explosives,0,5
+2008,6,Georgia,Central Asia,Bombing/Explosion,Explosives,0,0
+2008,6,India,South Asia,Armed Assault,Firearms,1,0
+2008,6,India,South Asia,Bombing/Explosion,Explosives,0,0
+2008,6,Afghanistan,South Asia,Armed Assault,Firearms,14,5
+2008,6,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,0,4
+2008,6,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,1,0
+2008,6,Pakistan,South Asia,Bombing/Explosion,Explosives,1,4
+2008,6,Pakistan,South Asia,Hostage Taking (Kidnapping),Firearms,8,0
+2008,6,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2008,6,Pakistan,South Asia,Hostage Taking (Kidnapping),Firearms,0,0
+2008,6,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2008,6,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2008,6,Afghanistan,South Asia,Assassination,Explosives,0,2
+2008,6,Afghanistan,South Asia,Hostage Taking (Kidnapping),Firearms,5,0
+2009,7,Afghanistan,South Asia,Armed Assault,Firearms,1,2
+2009,7,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2009,7,Algeria,Middle East & North Africa,Unknown,Unknown,2,0
+2009,7,India,South Asia,Bombing/Explosion,Explosives,0,0
+2009,7,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,1,1
+2009,7,India,South Asia,Armed Assault,Melee,1,2
+2009,7,India,South Asia,Bombing/Explosion,Explosives,0,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2009,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,28
+2009,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,8,17
+2009,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,
+2009,7,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2009,7,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2009,7,Thailand,Southeast Asia,Armed Assault,Firearms,2,0
+2009,7,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2009,7,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2009,7,India,South Asia,Bombing/Explosion,Explosives,0,0
+2009,7,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,1
+2009,7,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,14,7
+2009,7,Algeria,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2009,7,Pakistan,South Asia,Armed Assault,Firearms,3,6
+2009,7,Pakistan,South Asia,Assassination,Firearms,3,3
+2009,7,Pakistan,South Asia,Unknown,Unknown,3,0
+2009,7,Pakistan,South Asia,Assassination,Firearms,1,0
+2009,7,Pakistan,South Asia,Bombing/Explosion,Explosives,5,4
+2009,7,India,South Asia,Assassination,Firearms,1,0
+2009,7,India,South Asia,Armed Assault,Firearms,0,0
+2009,7,India,South Asia,Armed Assault,Firearms,2,0
+2009,7,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2009,7,Angola,Sub-Saharan Africa,Armed Assault,Firearms,2,0
+2009,7,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,3,15
+2009,7,Spain,Western Europe,Bombing/Explosion,Explosives,0,46
+2009,7,Afghanistan,South Asia,Armed Assault,Firearms,0,0
+2010,7,Russia,Eastern Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2010,7,Russia,Eastern Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2010,7,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2010,7,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2010,7,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2010,7,Colombia,South America,Armed Assault,Firearms,1,3
+2010,7,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2010,7,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,21
+2010,7,Afghanistan,South Asia,Assassination,Explosives,2,2
+2010,7,Pakistan,South Asia,Assassination,Firearms,1,2
+2010,7,Pakistan,South Asia,Assassination,Firearms,1,0
+2010,7,Pakistan,South Asia,Assassination,Melee,2,0
+2010,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2010,7,Afghanistan,South Asia,Unknown,Unknown,6,3
+2010,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2010,7,Pakistan,South Asia,Hostage Taking (Kidnapping),Firearms,2,0
+2010,7,Pakistan,South Asia,Bombing/Explosion,Explosives,0,2
+2010,7,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2010,7,Pakistan,South Asia,Bombing/Explosion,Explosives,1,0
+2010,7,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2010,7,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,0
+2010,7,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2010,7,India,South Asia,Assassination,Firearms,1,0
+2010,7,Ireland,Western Europe,Unarmed Assault,"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",0,7
+2010,7,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2010,7,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2010,7,Iraq,Middle East & North Africa,Facility/Infrastructure Attack,Sabotage Equipment,0,0
+2010,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2010,7,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2010,7,Iraq,Middle East & North Africa,Armed Assault,Firearms,0,1
+2011,1,Yemen,Middle East & North Africa,Assassination,Firearms,1,1
+2011,1,India,South Asia,Bombing/Explosion,Explosives,1,2
+2011,1,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2011,1,India,South Asia,Bombing/Explosion,Explosives,0,0
+2011,1,Russia,Eastern Europe,Armed Assault,Firearms,2,0
+2011,1,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Germany,Western Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,5,12
+2011,1,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2011,1,France,Western Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Iraq,Middle East & North Africa,Assassination,Explosives,5,3
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2011,1,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2011,1,Pakistan,South Asia,Bombing/Explosion,Explosives,17,11
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,0,1
+2011,1,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,2
+2011,1,United States,North America,Bombing/Explosion,Explosives,0,0
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2011,1,France,Western Europe,Bombing/Explosion,Explosives,0,3
+2011,1,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2011,1,Pakistan,South Asia,Armed Assault,Firearms,4,0
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,5
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,61,150
+2011,1,Austria,Western Europe,Facility/Infrastructure Attack,Sabotage Equipment,0,0
+2011,1,Russia,Eastern Europe,Hostage Taking (Kidnapping),Unknown,0,0
+2011,1,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2011,1,India,South Asia,Armed Assault,Firearms,1,17
+2011,1,India,South Asia,Hostage Taking (Kidnapping),Firearms,1,0
+2011,1,Yemen,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2011,1,Afghanistan,South Asia,Unarmed Assault,Chemical,0,1
+2011,1,Afghanistan,South Asia,Bombing/Explosion,Explosives,20,0
+2011,1,Afghanistan,South Asia,Hijacking,Firearms,1,2
+2011,1,India,South Asia,Bombing/Explosion,Explosives,0,0
+2011,1,Iraq,Middle East & North Africa,Assassination,Explosives,1,1
+2011,1,Iraq,Middle East & North Africa,Assassination,Explosives,0,2
+2011,1,Pakistan,South Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2011,1,Pakistan,South Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2011,1,Pakistan,South Asia,Bombing/Explosion,Explosives,1,11
+2011,1,Pakistan,South Asia,Armed Assault,Firearms,1,0
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,2,0
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2011,1,Pakistan,South Asia,Armed Assault,Firearms,1,0
+2011,1,Pakistan,South Asia,Hostage Taking (Kidnapping),Firearms,6,1
+2011,1,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2011,1,Philippines,Southeast Asia,Armed Assault,Firearms,1,0
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,9
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,8
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,25,75
+2011,1,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,25,75
+2011,1,India,South Asia,Unknown,Unknown,1,0
+2011,1,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2011,1,Afghanistan,South Asia,Assassination,Explosives,0,7
+2011,1,India,South Asia,Bombing/Explosion,Explosives,1,0
+2011,1,India,South Asia,Hostage Taking (Kidnapping),Firearms,1,0
+2011,1,Pakistan,South Asia,Armed Assault,Firearms,0,2
+2011,1,Pakistan,South Asia,Armed Assault,Firearms,2,0
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2011,1,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,2
+2011,1,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2012,8,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,6,0
+2012,8,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,4
+2012,8,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,14,7
+2012,8,Russia,Eastern Europe,Armed Assault,Firearms,0,8
+2012,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,0,1
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,4,12
+2012,8,Ivory Coast,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,,2
+2012,8,Afghanistan,South Asia,Assassination,Explosives,4,0
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,1,3
+2012,8,Indonesia,Southeast Asia,Bombing/Explosion,Explosives,0,2
+2012,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2012,8,Uganda,Sub-Saharan Africa,Assassination,Firearms,1,0
+2012,8,Yemen,Middle East & North Africa,Armed Assault,Firearms,9,10
+2012,8,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,2,6
+2012,8,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,4,1
+2012,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,8,15
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,3,0
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,2,7
+2012,8,Afghanistan,South Asia,Armed Assault,Firearms,1,0
+2012,8,Afghanistan,South Asia,Armed Assault,Firearms,2,0
+2012,8,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,4
+2012,8,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,0,2
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,0,2
+2012,8,Nigeria,Sub-Saharan Africa,Unknown,Unknown,0,3
+2012,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2012,8,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,2,1
+2012,8,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,2,1
+2012,8,India,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Yemen,Middle East & North Africa,Assassination,Firearms,0,0
+2012,8,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,10,67
+2012,8,Libya,Middle East & North Africa,Assassination,Explosives,0,0
+2012,8,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,2,3
+2012,8,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Afghanistan,South Asia,Assassination,Explosives,3,0
+2012,8,Russia,Eastern Europe,Armed Assault,Explosives,0,2
+2012,8,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,1,0
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,2,4
+2012,8,Yemen,Middle East & North Africa,Armed Assault,Firearms,0,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,India,South Asia,Armed Assault,Firearms,1,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Russia,Eastern Europe,Bombing/Explosion,Explosives,4,0
+2012,8,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2012,8,India,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Sudan,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,0,0
+2012,8,West Bank and Gaza Strip,Middle East & North Africa,Facility/Infrastructure Attack,Incendiary,0,0
+2012,8,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,2,13
+2012,8,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,2
+2012,8,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,1,0
+2012,8,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,2,0
+2012,8,Russia,Eastern Europe,Armed Assault,Firearms,1,0
+2012,8,Yemen,Middle East & North Africa,Armed Assault,Explosives,0,0
+2012,8,Yemen,Middle East & North Africa,Armed Assault,Explosives,0,0
+2012,8,Ireland,Western Europe,Bombing/Explosion,Explosives,0,0
+2012,8,Ireland,Western Europe,Bombing/Explosion,Explosives,0,0
+2012,8,Thailand,Southeast Asia,Armed Assault,Firearms,1,1
+2012,8,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Thailand,Southeast Asia,Armed Assault,Firearms,1,1
+2012,8,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,4,6
+2012,8,India,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Turkey,Middle East & North Africa,Armed Assault,Firearms,0,1
+2012,8,India,South Asia,Bombing/Explosion,Explosives,0,0
+2012,8,Pakistan,South Asia,Bombing/Explosion,Explosives,2,0
+2012,8,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,21,5
+2012,8,Tajikistan,Central Asia,Assassination,Explosives,1,0
+2012,8,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,3
+2012,8,Bahrain,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2013,9,Thailand,Southeast Asia,Armed Assault,Firearms,1,0
+2013,9,Philippines,Southeast Asia,Bombing/Explosion,Explosives,,
+2013,9,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,9
+2013,9,Egypt,Middle East & North Africa,Armed Assault,Firearms,1,12
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2013,9,India,South Asia,Armed Assault,Firearms,2,3
+2013,9,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,5
+2013,9,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Philippines,Southeast Asia,Assassination,Firearms,1,0
+2013,9,Afghanistan,South Asia,Hostage Taking (Kidnapping),Unknown,1,0
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,0,9
+2013,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,2,1
+2013,9,Russia,Eastern Europe,Bombing/Explosion,Explosives,4,4
+2013,9,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2013,9,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,10
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,4,0
+2013,9,Syria,Middle East & North Africa,Armed Assault,Firearms,2,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,0
+2013,9,Yemen,Middle East & North Africa,Assassination,Firearms,0,0
+2013,9,Pakistan,South Asia,Armed Assault,Firearms,0,1
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,3,2
+2013,9,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,,
+2013,9,Philippines,Southeast Asia,Assassination,Firearms,0,2
+2013,9,Pakistan,South Asia,Assassination,Firearms,1,0
+2013,9,Pakistan,South Asia,Assassination,Firearms,1,0
+2013,9,Pakistan,South Asia,Hostage Taking (Kidnapping),Unknown,,
+2013,9,Russia,Eastern Europe,Armed Assault,Firearms,1,0
+2013,9,Tunisia,Middle East & North Africa,Armed Assault,Firearms,0,0
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,6,0
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,1,1
+2013,9,Syria,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2013,9,Yemen,Middle East & North Africa,Facility/Infrastructure Attack,Unknown,0,0
+2013,9,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,7,20
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Sudan,Sub-Saharan Africa,Armed Assault,Firearms,1,2
+2013,9,Egypt,Middle East & North Africa,Armed Assault,Firearms,2,2
+2013,9,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Incendiary,0,0
+2013,9,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Firearms,0,0
+2013,9,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,142,
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,4,12
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,11
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,9
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,8
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,15
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,7
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,11
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,9,12
+2013,9,Iraq,Middle East & North Africa,Armed Assault,Explosives,1,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,2
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,6
+2013,9,Iraq,Middle East & North Africa,Assassination,Explosives,1,0
+2013,9,Iraq,Middle East & North Africa,Armed Assault,Firearms,6,2
+2013,9,Iraq,Middle East & North Africa,Assassination,Firearms,1,0
+2013,9,Bahrain,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2013,9,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2013,9,Libya,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,4
+2013,9,India,South Asia,Armed Assault,Firearms,2,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,5
+2013,9,India,South Asia,Armed Assault,Firearms,2,0
+2013,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,3
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Thailand,Southeast Asia,Armed Assault,Firearms,0,1
+2013,9,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,12,
+2013,9,Yemen,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,,
+2013,9,Yemen,Middle East & North Africa,Armed Assault,Firearms,0,0
+2013,9,Yemen,Middle East & North Africa,Assassination,Firearms,0,0
+2013,9,Yemen,Middle East & North Africa,Assassination,Explosives,0,0
+2013,9,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,13
+2013,9,Egypt,Middle East & North Africa,Armed Assault,Firearms,0,0
+2013,9,Afghanistan,South Asia,Bombing/Explosion,Explosives,,
+2013,9,Pakistan,South Asia,Hostage Taking (Kidnapping),Firearms,0,1
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,3,3
+2013,9,Iraq,Middle East & North Africa,Assassination,Explosives,0,0
+2013,9,Afghanistan,South Asia,Assassination,Firearms,1,0
+2013,9,Russia,Eastern Europe,Armed Assault,Firearms,0,1
+2013,9,Afghanistan,South Asia,Hostage Taking (Kidnapping),Firearms,23,21
+2013,9,Pakistan,South Asia,Armed Assault,Firearms,2,0
+2013,9,India,South Asia,Armed Assault,Firearms,2,0
+2013,9,India,South Asia,Armed Assault,Firearms,0,0
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,5
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,10
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,20
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,4
+2013,9,Ireland,Western Europe,Bombing/Explosion,Explosives,0,0
+2013,9,Pakistan,South Asia,Assassination,Explosives,0,0
+2013,9,Philippines,Southeast Asia,Armed Assault,Firearms,0,2
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,2,1
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,8
+2013,9,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,3
+2013,9,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2013,9,Nigeria,Sub-Saharan Africa,Assassination,Firearms,0,
+2013,9,Pakistan,South Asia,Assassination,Firearms,3,1
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,3,7
+2013,9,Afghanistan,South Asia,Armed Assault,Firearms,6,
+2013,9,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,,
+2013,9,Somalia,Sub-Saharan Africa,Unknown,Unknown,,
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,1
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,1
+2013,9,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2013,9,Yemen,Middle East & North Africa,Armed Assault,Firearms,0,0
+2013,9,Yemen,Middle East & North Africa,Facility/Infrastructure Attack,Firearms,0,0
+2013,9,Yemen,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,1,0
+2013,9,Yemen,Middle East & North Africa,Facility/Infrastructure Attack,Unknown,0,0
+2013,9,Pakistan,South Asia,Armed Assault,Explosives,3,13
+2013,9,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,9,19
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,India,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,10
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,4,15
+2013,9,Pakistan,South Asia,Facility/Infrastructure Attack,Firearms,0,0
+2013,9,Kosovo,Eastern Europe,Armed Assault,Firearms,1,0
+2013,9,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2013,9,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,20,0
+2014,11,Central African Republic,Sub-Saharan Africa,Armed Assault,Firearms,0,0
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,10
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,2
+2014,11,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2014,11,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,,
+2014,11,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,21,
+2014,11,Kenya,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Afghanistan,South Asia,Hostage Taking (Kidnapping),Firearms,10,0
+2014,11,India,South Asia,Bombing/Explosion,Explosives,0,0
+2014,11,Nepal,South Asia,Bombing/Explosion,Explosives,0,0
+2014,11,Bahrain,Middle East & North Africa,Armed Assault,Incendiary,0,0
+2014,11,India,South Asia,Armed Assault,Firearms,0,1
+2014,11,Philippines,Southeast Asia,Armed Assault,Firearms,0,0
+2014,11,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2014,11,Afghanistan,South Asia,Armed Assault,Firearms,2,6
+2014,11,Pakistan,South Asia,Armed Assault,Firearms,0,0
+2014,11,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,1
+2014,11,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,4
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,0,2
+2014,11,Afghanistan,South Asia,Bombing/Explosion,Explosives,2,0
+2014,11,Colombia,South America,Bombing/Explosion,Explosives,1,3
+2014,11,Lebanon,Middle East & North Africa,Armed Assault,Firearms,0,1
+2014,11,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Ukraine,Eastern Europe,Armed Assault,Explosives,201,
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,12
+2014,11,Iraq,Middle East & North Africa,Armed Assault,Firearms,2,7
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Mali,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,3
+2014,11,Mali,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2014,11,Nigeria,Sub-Saharan Africa,Armed Assault,Firearms,1,0
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,4,8
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,0
+2014,11,Libya,Middle East & North Africa,Armed Assault,Firearms,1,0
+2014,11,Greece,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2014,11,Syria,Middle East & North Africa,Unknown,Unknown,14,11
+2014,11,Syria,Middle East & North Africa,Unknown,Unknown,13,11
+2014,11,Syria,Middle East & North Africa,Unknown,Unknown,13,11
+2014,11,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,,
+2014,11,Indonesia,Southeast Asia,Assassination,Firearms,0,0
+2014,11,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Pakistan,South Asia,Armed Assault,Firearms,2,0
+2014,11,Chile,South America,Bombing/Explosion,Explosives,0,0
+2014,11,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2014,11,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,2
+2014,11,Bangladesh,South Asia,Bombing/Explosion,Explosives,0,2
+2014,11,India,South Asia,Assassination,Melee,1,0
+2014,11,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,1,1
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,5,2
+2014,11,Philippines,Southeast Asia,Hostage Taking (Kidnapping),Firearms,2,4
+2014,11,Afghanistan,South Asia,Unknown,Unknown,0,0
+2014,11,Somalia,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,,
+2014,11,Pakistan,South Asia,Bombing/Explosion,Explosives,0,1
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,,
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,9,15
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,4
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,9
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,8
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,7
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,4
+2014,11,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,8,10
+2014,11,Pakistan,South Asia,Armed Assault,Firearms,2,0
+2014,11,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Lebanon,Middle East & North Africa,Bombing/Explosion,Explosives,0,2
+2014,11,Pakistan,South Asia,Hostage Taking (Kidnapping),Unknown,0,0
+2014,11,Egypt,Middle East & North Africa,Armed Assault,Firearms,1,1
+2014,11,South Africa,Sub-Saharan Africa,Armed Assault,Firearms,4,0
+2014,11,Afghanistan,South Asia,Assassination,Firearms,2,0
+2014,11,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,7
+2014,11,Democratic Republic of the Congo,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,0,1
+2014,11,Afghanistan,South Asia,Unknown,Unknown,0,2
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2014,11,Afghanistan,South Asia,Bombing/Explosion,Explosives,4,7
+2014,11,Pakistan,South Asia,Unknown,Unknown,17,
+2014,11,India,South Asia,Armed Assault,Firearms,0,2
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,0
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,12,32
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,2
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,8,24
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,6,13
+2014,11,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,11,30
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,,
+2015,10,Mali,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,0,1
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,1,0
+2015,10,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,,
+2015,10,Nigeria,Sub-Saharan Africa,Bombing/Explosion,Explosives,4,0
+2015,10,Ethiopia,Sub-Saharan Africa,Armed Assault,Firearms,22,0
+2015,10,Russia,Eastern Europe,Armed Assault,Firearms,4,0
+2015,10,Central African Republic,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,3,0
+2015,10,Germany,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Sweden,Western Europe,Armed Assault,Melee,0,0
+2015,10,Sweden,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Sweden,Western Europe,Armed Assault,Incendiary,0,3
+2015,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,,
+2015,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Unknown,,
+2015,10,India,South Asia,Armed Assault,Firearms,0,
+2015,10,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,India,South Asia,Bombing/Explosion,Explosives,1,0
+2015,10,Pakistan,South Asia,Assassination,Explosives,8,0
+2015,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Pakistan,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,8
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,2
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Armed Assault,Firearms,3,4
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,23,24
+2015,10,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,6
+2015,10,Afghanistan,South Asia,Bombing/Explosion,Explosives,1,9
+2015,10,Pakistan,South Asia,Armed Assault,Firearms,0,0
+2015,10,Pakistan,South Asia,Armed Assault,Firearms,0,0
+2015,10,Pakistan,South Asia,Armed Assault,Firearms,0,2
+2015,10,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Afghanistan,South Asia,Hostage Taking (Kidnapping),Firearms,1,0
+2015,10,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,2
+2015,10,Ukraine,Eastern Europe,Armed Assault,Firearms,2,8
+2015,10,Ukraine,Eastern Europe,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Chemical,,
+2015,10,Somalia,Sub-Saharan Africa,Unknown,Unknown,0,0
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,1,1
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,1,0
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Firearms,0,0
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,United Kingdom,Western Europe,Bombing/Explosion,Explosives,0,0
+2015,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,0,0
+2015,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,1,0
+2015,10,Iraq,Middle East & North Africa,Unknown,Unknown,3,2
+2015,10,Bangladesh,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Myanmar,Southeast Asia,Assassination,Melee,0,1
+2015,10,India,South Asia,Hostage Taking (Kidnapping),Unknown,2,0
+2015,10,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2015,10,Afghanistan,South Asia,Bombing/Explosion,Explosives,7,10
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,3
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,7
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,7
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,6
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,3
+2015,10,Thailand,Southeast Asia,Bombing/Explosion,Explosives,0,2
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,14,
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,,
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,,
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,,
+2015,10,Somalia,Sub-Saharan Africa,Armed Assault,Explosives,,
+2015,10,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,0,7
+2015,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Afghanistan,South Asia,Armed Assault,Firearms,3,0
+2015,10,Afghanistan,South Asia,Bombing/Explosion,Explosives,6,4
+2015,10,India,South Asia,Armed Assault,Melee,2,0
+2015,10,India,South Asia,Bombing/Explosion,Explosives,0,0
+2015,10,Ukraine,Eastern Europe,Armed Assault,Explosives,1,1
+2015,10,Turkey,Middle East & North Africa,Assassination,Firearms,2,0
+2015,10,Afghanistan,South Asia,Bombing/Explosion,Explosives,5,0
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,1,2
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,1,2
+2015,10,West Bank and Gaza Strip,Middle East & North Africa,Armed Assault,Melee,0,1
+2015,10,Afghanistan,South Asia,Unknown,Unknown,0,0
+2015,10,Nepal,South Asia,Assassination,Firearms,0,0
+2015,10,Ireland,Western Europe,Bombing/Explosion,Explosives,0,0
+2015,10,Ireland,Western Europe,Bombing/Explosion,Explosives,0,0
+2015,10,Democratic Republic of the Congo,Sub-Saharan Africa,Hostage Taking (Kidnapping),Unknown,0,0
+2015,10,Central African Republic,Sub-Saharan Africa,Armed Assault,Firearms,0,1
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,0,
+2015,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,,
+2015,10,Cameroon,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,,
+2015,10,India,South Asia,Unknown,Unknown,1,0
+2015,10,Senegal,Sub-Saharan Africa,Armed Assault,Explosives,,4
+2015,10,Paraguay,South America,Hostage Taking (Kidnapping),Firearms,0,0
+2015,10,Egypt,Middle East & North Africa,Bombing/Explosion,Explosives,224,0
+2015,10,Philippines,Southeast Asia,Armed Assault,Firearms,1,0
+2015,10,Philippines,Southeast Asia,Armed Assault,Firearms,2,1
+2015,10,Philippines,Southeast Asia,Armed Assault,Explosives,0,0
+2015,10,Afghanistan,South Asia,Armed Assault,Firearms,33,12
+2015,10,Afghanistan,South Asia,Assassination,Firearms,2,0
+2015,10,Pakistan,South Asia,Bombing/Explosion,Explosives,1,3
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,5
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,3
+2015,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,8
+2015,10,Somalia,Sub-Saharan Africa,Bombing/Explosion,Explosives,0,5
+2015,10,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,,
+2015,10,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,,
+2015,10,India,South Asia,Bombing/Explosion,Explosives,0,7
+2015,10,India,South Asia,Bombing/Explosion,Explosives,0,0
+2016,10,India,South Asia,Assassination,Firearms,1,0
+2016,10,Philippines,Southeast Asia,Armed Assault,Firearms,1,0
+2016,10,India,South Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2016,10,India,South Asia,Armed Assault,Firearms,0,0
+2016,10,South Sudan,Sub-Saharan Africa,Armed Assault,Firearms,2,1
+2016,10,Sudan,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,,1
+2016,10,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2016,10,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2016,10,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2016,10,India,South Asia,Facility/Infrastructure Attack,Unknown,0,0
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,20,0
+2016,10,Mali,Sub-Saharan Africa,Armed Assault,Firearms,1,0
+2016,10,Iraq,Middle East & North Africa,Facility/Infrastructure Attack,Unknown,0,0
+2016,10,South Sudan,Sub-Saharan Africa,Hostage Taking (Kidnapping),Firearms,2,5
+2016,10,Libya,Middle East & North Africa,Hostage Taking (Kidnapping),Firearms,0,0
+2016,10,Philippines,Southeast Asia,Armed Assault,Explosives,0,0
+2016,10,Philippines,Southeast Asia,Hijacking,Firearms,0,0
+2016,10,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2016,10,Colombia,South America,Bombing/Explosion,Explosives,0,2
+2016,10,Colombia,South America,Bombing/Explosion,Explosives,0,0
+2016,10,Pakistan,South Asia,Bombing/Explosion,Explosives,2,9
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,4
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,8
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,3,6
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,2,8
+2016,10,Iraq,Middle East & North Africa,Unknown,Unknown,3,0
+2016,10,Iraq,Middle East & North Africa,Unknown,Unknown,,
+2016,10,Yemen,Middle East & North Africa,Armed Assault,Firearms,5,3
+2016,10,Indonesia,Southeast Asia,Armed Assault,Explosives,1,3
+2016,10,Yemen,Middle East & North Africa,Unknown,Unknown,3,
+2016,10,Yemen,Middle East & North Africa,Armed Assault,Explosives,0,0
+2016,10,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,3,0
+2016,10,Pakistan,South Asia,Bombing/Explosion,Explosives,0,2
+2016,10,Turkey,Middle East & North Africa,Unknown,Unknown,2,5
+2016,10,Yemen,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,1,0
+2016,10,Iraq,Middle East & North Africa,Bombing/Explosion,Explosives,21,0
+2016,10,Somalia,Sub-Saharan Africa,Assassination,Firearms,1,0
+2016,10,United Kingdom,Western Europe,Armed Assault,Firearms,1,0
+2016,10,Turkey,Middle East & North Africa,Bombing/Explosion,Explosives,0,0
+2016,10,India,South Asia,Bombing/Explosion,Explosives,0,0
+2016,10,Democratic Republic of the Congo,Sub-Saharan Africa,Unknown,Unknown,12,0
+2017,12,Philippines,Southeast Asia,Bombing/Explosion,Explosives,1,5
+2017,12,Italy,Western Europe,Facility/Infrastructure Attack,Incendiary,0,0
+2017,12,Afghanistan,South Asia,Armed Assault,Firearms,6,0
+2017,12,India,South Asia,Hostage Taking (Kidnapping),Firearms,0,0
+2017,12,Afghanistan,South Asia,Bombing/Explosion,Explosives,0,4
+2017,12,Somalia,Sub-Saharan Africa,Armed Assault,Firearms,1,2
+2017,12,Syria,Middle East & North Africa,Bombing/Explosion,Explosives,2,7
+2017,12,Philippines,Southeast Asia,Facility/Infrastructure Attack,Incendiary,0,0
+2017,12,India,South Asia,Bombing/Explosion,Explosives,0,0
+2017,12,Philippines,Southeast Asia,Bombing/Explosion,Explosives,0,0
